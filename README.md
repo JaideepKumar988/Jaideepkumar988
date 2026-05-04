@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Jaideep Kumar
 
-<!--
-**JaideepKumar988/Jaideepkumar988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+📊 Data Analytics Enthusiast  
+💻 Learning Python, R & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python 🐍
+- R 📈
+- Data Analysis 📊
+- Pandas / NumPy
+- Git & GitHub
+
+---
+
+## 📂 Projects
+### 🔹 Smart Study Planner
+- Python-based planner for managing study schedule
+- 🔗 https://github.com/JaideepKumar988/
+
+---
+
+## 📫 Contact
+- Email: karnjaideep111@gmail.com
+
+---
+
+⭐ “Learning step by step towards Data Science”
