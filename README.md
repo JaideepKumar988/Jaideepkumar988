@@ -18,7 +18,7 @@
 ## 📂 Projects
 ### 🔹 Smart Study Planner
 - Python-based planner for managing study schedule
-- 🔗 https://github.com/JaideepKumar988/
+- 🔗 https://github.com/JaideepKumar988/smart-study-planner
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-⭐ “Learning step by step towards Data Science”
+⭐ “Learning step by step towards Data Analytics”
